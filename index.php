@@ -14,6 +14,7 @@ require_once __DIR__ . '/db.php';
 
 <!DOCTYPE html>
 <html lang="en">
+  
 
 <?php 
     require_once __DIR__ . '/partials/Head.php';
